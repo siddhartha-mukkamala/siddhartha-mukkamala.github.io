@@ -1,3 +1,7 @@
++++ title = "Bridging the Multi-Cloud Gap -- A Practitioner’s Framework for Secure, Unified Connectivity Across AWS, GCP, and Azure  " date = 2026-04-02T10:00:00-05:00 draft = false +++
+
+
+
 # Bridging the Multi-Cloud Gap
 
 ## A Practitioner’s Framework for Secure, Unified Connectivity Across AWS, GCP, and Azure
