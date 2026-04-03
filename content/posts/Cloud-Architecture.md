@@ -6,7 +6,7 @@ draft = false
 +++
 
 **By Siddhartha Mukkamala**
-*Senior Manager — Systems & Cloud Network Engineering*
+
 
 ---
 
